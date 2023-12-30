@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Kamal
+
+A Software Engineer with a passion for Coding.
+
+Ready to make an impact.
+
 <!--
 **kamal-ezz/kamal-ezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
